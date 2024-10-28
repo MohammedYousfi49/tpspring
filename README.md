@@ -45,3 +45,5 @@ Créer les templates HTML nécessaires pour afficher les formulaires d'inscripti
 Ce TP permet de comprendre comment structurer une application Web CRUD en utilisant Spring Boot et Thymeleaf, en mettant en œuvre les concepts clés de JPA et en facilitant le développement avec les outils fournis par Spring Boot.
 
 ## Video de Demonstration  
+https://github.com/user-attachments/assets/ca457f3b-7801-4e32-a825-af5677c18475
+
